@@ -1,4 +1,4 @@
-# Dopamine
+# Consume and create Rest API
 Rest API
 
 <a href="https://documenter.getpostman.com/view/10402860/SzYgRadW?version=latest">Read the Documentation</a>
